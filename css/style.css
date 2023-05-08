@@ -1,0 +1,79 @@
+.navbar-image {
+    height: 60px;
+    width: 70px;
+    padding: 5px;
+}
+.navbar-bg{
+    background-color: #F6F1F1;
+}
+.logo{
+    height: 40px;
+    width: 90px;
+    margin: 0px;
+}
+.navbar-title{
+    font-family: "roboto";
+    font-size: 28px;
+    font-weight: 700;
+    color: azure;
+}
+.nav-baner{
+    background-color: aqua;
+    
+}
+.nav-baner2{
+    background-color: green;
+}
+.nav-baner3{
+    background-color: darkkhaki;
+}
+
+.banner-heading {
+    color:white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 700;
+}
+.baner-paragraph{
+    font-family: "roboto";
+    font-size: 16px;
+    color: white;
+    font-weight: 500;
+}
+.btn{
+    border-radius: "14px";
+    margin-left: 16px;
+}
+.btn2{
+    border-radius: 14px;
+    background-color: black;
+    color: white;
+}
+.website-img{
+    height: 60vh;
+    
+}
+.icon{
+    height: 50px;
+    width: 50px;
+}
+.heading-icons{
+    font-family: "roboto";
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+}
+.icon-paragraph{
+    font-family: "roboto";
+    font-size: 12px;
+    text-align: center;
+}
+.icon-button{
+    border-style: solid;
+    border-width: 1px;
+    border-color: cornflowerblue;
+    color: cornflowerblue;
+    border-radius: 8px;
+    font-size: 11px;
+    padding: 8px;
+}
